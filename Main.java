@@ -4,7 +4,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        Dog myDog = new Dog("Барни", "шпиц");
+        Dog myDog = new Dog("Барни", "шпиц", "рыжий");
 
         myDog.sayInfo();
     }
